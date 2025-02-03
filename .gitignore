@@ -1,0 +1,32 @@
+# Ignore Atmel Studio files
+*.atsuo
+*.atsln
+*.atstart
+*.atpack
+*.atdf
+*.atzip
+
+# Ignore build directories
+/Debug/
+/Release/
+
+# Ignore temporary files
+*.tmp
+*.log
+*.bak
+*.swp
+
+# Ignore compiled files
+*.o
+*.obj
+*.elf
+*.hex
+*.bin
+*.map
+
+# Ignore user-specific files
+*.user
+*.opendb
+*.suo
+*.ncb
+*.userprefs
